@@ -1,4 +1,4 @@
-import "./posting.scss";
+import "../styles/posting.scss";
 function App() {
   return (
     <div>

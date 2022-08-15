@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Posting from "./Posting";
+import Posting from "./pages/Posting";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
